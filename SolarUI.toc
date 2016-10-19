@@ -1,0 +1,13 @@
+## Interface: 70000
+## Author: Avael
+## Version: 0.8alpha
+## Title: SolarUI [In Development]
+## Notes: Not to be distributed without consent @Avaeloj Avael-Hyjal
+## DefaultState: enabled
+## SavedVariables: astraldb
+## SavedVariablesPerCharacter: solardb
+## OptionalDeps: Ace3, Masque
+
+embeds.xml
+ActionBars\ActionBars.lua
+Core.lua
